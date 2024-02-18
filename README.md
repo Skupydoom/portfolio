@@ -55,16 +55,16 @@ ___
 <table>
   <tr>
     <td>
-        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_unfilled.png" alt="Registration unfilled" width="500"/></img>
+        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_unfilled.png" alt="Registration unfilled" width="400"/></img>
     </td>
     <td>
-        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_filled.png" alt="Registration filled" width="500"/></img>
+        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_filled.png" alt="Registration filled" width="400"/></img>
     </td>
   </tr>
 </table>
 
 После введения данных и нажатия кнопки регистрации происходит передача данных серверу, запись в базу данных пользователей:  
-<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/data_base_view.png" alt="Registration unfilled" width="200"/></img>
+<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/data_base_view.png" alt="Registration unfilled" width="400"/></img>
 
 В случае успешной записи идёт перенаправление на основное окно:  
 <table>
@@ -80,11 +80,11 @@ ___
 
 Здесь человек может выбрать понравившуюся модель из списка и получить описание.  
 Также реализован вход по логину и паролю:  
-<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/login_window.png" alt="Registration unfilled" width="500"/></img>
+<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/login_window.png" alt="Registration unfilled" width="300"/></img>
 
 Есть кнопка переадресации со страницы логина на страницу регистрации и наоборот.  
 Тема может быть изменена на тёмную или системную при её выборе из списка:  
-<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/main_window_dark.png" alt="Registration unfilled" width="500"/></img>
+<img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/main_window_dark.png" alt="Registration unfilled" width="300"/></img>
 
 Клиент и сервер показывают в консоли отладочную информацию при различных действиях пользователей:  
 <table>
