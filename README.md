@@ -48,11 +48,14 @@ ___
 - Настройка сети на виртуальных машинах с Linux и их взаимодействие.
 ___
 ## Дипломы и сертификаты
-#### Thist is SPARTA data.sprint
-<img src="./diplomas_and_certificates/This_is_SPARTA_data_sprint.jpg" alt="drawing" width="700"/></img>
+#### Сертификат финалиста This is SPARTA data.sprint
+<img src="./diplomas_and_certificates/This_is_SPARTA_data_sprint.jpg" alt="Сертификат финалиста This is SPARTA data.sprint" width="700"/></img>
 
 #### Диплом победителя ДКЭ 2023 по специальности Data Science
-<img src="./diplomas_and_certificates/DKE_2023_Data_Scientist.jpg" alt="drawing" width="700"/></img>
+<img src="./diplomas_and_certificates/DKE_2023_Data_Scientist.jpg" alt="Диплом победителя ДКЭ 2023 Data Science" width="700"/></img>
 
 #### Сертификат прохождения курса Kaggle "Intermediate Machine Learning"
-<img src="./diplomas_and_certificates/Konstantin_Grigorev_Intermediate_Machine_Learning.png" alt="drawing" width="700"/></img>
+<img src="./diplomas_and_certificates/Konstantin_Grigorev_Intermediate_Machine_Learning.png" alt="Сертификат Kaggle Intermediate Machine Learning" width="700"/></img>
+
+#### Сертификат прохождения курса МУИВТЕХ "Основы технологического предпринимательства"
+<img src="./diplomas_and_certificates/MuivTech_business.jpg" alt="Сертификат МУИВТЕХ Основы технологического предпринимательства" width="700"/></img>
