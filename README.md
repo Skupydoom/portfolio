@@ -55,10 +55,10 @@ ___
 <table>
   <tr>
     <td>
-        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_unfilled.png" alt="Registration unfilled" width="400"/></img>
+        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_unfilled.png" alt="Registration unfilled" width="300"/></img>
     </td>
     <td>
-        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_filled.png" alt="Registration filled" width="400"/></img>
+        <img src="./Images/Интерактивное приложение для доступа к ML-моделям с сервера/registration_filled.png" alt="Registration filled" width="300"/></img>
     </td>
   </tr>
 </table>
