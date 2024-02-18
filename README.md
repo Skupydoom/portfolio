@@ -47,10 +47,12 @@ ___
 - Базовое ознакомление с Linux (Ubuntu Server LTS 20.04).
 - Настройка сети на виртуальных машинах с Linux и их взаимодействие.
 ___
-## Дипломы и сертификаты:
-Thist is SPARTA data.sprint:
-![Thist is SPARTA data.sprin top 10%](./diplomas_and_certificates/This_is_SPARTA_data_sprint.jpg)
-Диплом победителя ДКЭ 2023 по специальности Data Science:
-![Диплом победителя ДКЭ 2023 по Data Science](./diplomas_and_certificates/DKE_2023_Data_Scientist.jpg)
-Сертификат прохождения курса Kaggle "Intermediate Machine Learning":
-![Сертификат Kaggle "Intermediate Machine Learning"](./diplomas_and_certificates/Konstantin_Grigorev_Intermediate_Machine_Learning.png)
+## Дипломы и сертификаты
+#### Thist is SPARTA data.sprint
+<img src="./diplomas_and_certificates/This_is_SPARTA_data_sprint.jpg" alt="drawing" width="700"/></img>
+
+#### Диплом победителя ДКЭ 2023 по специальности Data Science
+<img src="./diplomas_and_certificates/DKE_2023_Data_Scientist.jpg" alt="drawing" width="700"/></img>
+
+#### Сертификат прохождения курса Kaggle "Intermediate Machine Learning"
+<img src="./diplomas_and_certificates/Konstantin_Grigorev_Intermediate_Machine_Learning.png" alt="drawing" width="700"/></img>
